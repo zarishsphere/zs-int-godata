@@ -1,5 +1,3 @@
 # zs-int-godata
 
-> ZarishSphere integration adapter: godata
-
-Part of ZarishSphere Platform.
+Generated directly from internal PRD specification.
